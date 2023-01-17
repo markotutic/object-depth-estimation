@@ -1,5 +1,7 @@
 /sdk
 /training
 /.idea
-README.txt
-README_depth.txt
+/__pycache__
+/runs
+/nyu_depth_data_labeled.mat
+/*.pt
